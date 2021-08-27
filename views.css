@@ -369,6 +369,16 @@ svg:hover path{
   margin-top: 50px;
 }
 
+.first_mdf_pwd1 {
+  
+  cursor: pointer;
+}
+.first_mdf_pwd2 {
+  
+  cursor: pointer;
+  color: red;
+}
+
 .main_quick_entries {
   /* width: 100%;
   text-align: center;
